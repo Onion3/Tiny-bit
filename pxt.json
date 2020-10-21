@@ -1,7 +1,7 @@
 {
     "name": "Zero",
     "version": "1.0.1",
-    "description": "Extension for Onion3 Zero V1.0.2",
+    "description": "Extension for Onion3 Zero V1.0.3",
     "license": "MIT",
     "dependencies": {
         "core": "*",
