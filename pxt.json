@@ -1,12 +1,12 @@
 {
-    "name": "Tinybit",
+    "name": "Zero",
     "version": "1.0.1",
-    "description": "Extension for YahBoom Tiny:bit V1.0.2",
+    "description": "Extension for Onion3 Zero V1.0.2",
     "license": "MIT",
     "dependencies": {
         "core": "*",
         "neopixel": "github:lzty634158/pxt-neopixel",
-        "Mbit_IR":  "github:lzty634158/yahboom_mbit_IR"
+
 	
 
     },
